@@ -1,107 +1,107 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/w16vy5jk4pa54j7n39pq"
-#EXTINF:-1 tvg-id="RedeTVFortaleza.br" tvg-logo="http://",REDETV! HD
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="RedeTVFortaleza.br" tvg-logo="http://",REDETV! HD
 http://
-#EXTINF:-1 tvg-id="RedeTVFortaleza.br" tvg-logo="http://",REDETV!EDUCA
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="RedeTVFortaleza.br" tvg-logo="http://",REDETV!EDUCA
 http://
-#EXTINF:-1 tvg-id="RedeTVFortaleza.br" tvg-logo="http://",REDETV! 1Seg
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="RedeTVFortaleza.br" tvg-logo="http://",REDETV! 1Seg
 http://
-#EXTINF:-1 tvg-id="TVCeara.br" tvg-logo="http://",TV CEARA HD
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="TVCeara.br" tvg-logo="http://",TV CEARA HD
 http://
-#EXTINF:-1 tvg-id="TVCeara.br" tvg-logo="http://",TV CEARA 1SEG
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="TVCeara.br" tvg-logo="http://",TV CEARA 1SEG
 http://
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="http://",TV Camara
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="TVCamara.br" tvg-logo="http://",TV Camara
 http://
-#EXTINF:-1 tvg-logo="http://",TV Fortaleza
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-logo="http://",TV Fortaleza
 http://
-#EXTINF:-1 tvg-id="TVSenado.br" tvg-logo="http://",TV Senado
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="TVSenado.br" tvg-logo="http://",TV Senado
 http://
-#EXTINF:-1 tvg-logo="http://",Radio Camara
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-logo="http://",Radio Camara
 http://
-#EXTINF:-1 tvg-id="TVCidade.br" tvg-logo="http://",TV Cidade HD
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="TVCidade.br" tvg-logo="http://",TV Cidade HD
 http://
-#EXTINF:-1 tvg-id="TVCidade.br" tvg-logo="http://",TV Cidade 1Seg
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="TVCidade.br" tvg-logo="http://",TV Cidade 1Seg
 http://
-#EXTINF:-1 tvg-logo="http://",TV CAPITAL HD
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-logo="http://",TV CAPITAL HD
 http://
-#EXTINF:-1 tvg-logo="http://",TV CAPITAL
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-logo="http://",TV CAPITAL
 http://
-#EXTINF:-1 tvg-id="TVVerdesMares.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Tv_verdes_mares.png/revision/latest/scale-to-width-down/200?cb=20130411194427",TV VERDES MARES HD
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="TVVerdesMares.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Tv_verdes_mares.png/revision/latest/scale-to-width-down/200?cb=20130411194427",TV VERDES MARES HD
 http://b5.vc:80/karina01/01karina/72096.ts
-#EXTINF:-1 tvg-id="TVVerdesMares.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Tv_verdes_mares.png/revision/latest/scale-to-width-down/200?cb=20130411194427",TVM MOBILE
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="TVVerdesMares.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Tv_verdes_mares.png/revision/latest/scale-to-width-down/200?cb=20130411194427",TVM MOBILE
 http://b5.vc:80/karina01/01karina/72097.ts
-#EXTINF:-1 tvg-id="TVJangadeiro.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/SBT_%282012%29.png/revision/latest/scale-to-width-down/200?cb=20161107225754",JANGADEIRO HDTV
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="TVJangadeiro.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/SBT_%282012%29.png/revision/latest/scale-to-width-down/200?cb=20161107225754",JANGADEIRO HDTV
 http://b5.vc:80/karina01/01karina/100418.ts
-#EXTINF:-1 tvg-id="TVJangadeiro.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/SBT_%282012%29.png/revision/latest/scale-to-width-down/200?cb=20161107225754",JANGADEIRO 1Seg
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="TVJangadeiro.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/SBT_%282012%29.png/revision/latest/scale-to-width-down/200?cb=20161107225754",JANGADEIRO 1Seg
 http://b5.vc:80/karina01/01karina/100419.ts
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="http://",Record News HD
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="RecordNews.br" tvg-logo="http://",Record News HD
 http://
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="http://",Record News 1Seg
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="RecordNews.br" tvg-logo="http://",Record News 1Seg
 http://
-#EXTINF:-1 tvg-logo="http://",TV METROPOLE HD
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-logo="http://",TV METROPOLE HD
 http://
-#EXTINF:-1 tvg-logo="http://",TV METROPOLE 1SEG
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-logo="http://",TV METROPOLE 1SEG
 http://
-#EXTINF:-1 tvg-id="TVUniao.br" tvg-logo="http://",TV UNIÃO HD
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="TVUniao.br" tvg-logo="http://",TV UNIÃO HD
 http://
-#EXTINF:-1 tvg-id="TVUniao.br" tvg-logo="http://",TV UNIÃO MOBILE
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="TVUniao.br" tvg-logo="http://",TV UNIÃO MOBILE
 http://
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="http://",Rede Brasil HD
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="RedeBrasil.br" tvg-logo="http://",Rede Brasil HD
 http://
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="http://",Rede Brasil 1SEG
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="RedeBrasil.br" tvg-logo="http://",Rede Brasil 1SEG
 http://
-#EXTINF:-1 tvg-logo="http://",BAND CE
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-logo="http://",BAND CE
 http://
-#EXTINF:-1 tvg-logo="http://",BAND CE 1SEG
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-logo="http://",BAND CE 1SEG
 http://
-#EXTINF:-1 tvg-id="TVDiario.br" tvg-logo="http://",TV DIÁRIO HD
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="TVDiario.br" tvg-logo="http://",TV DIÁRIO HD
 http://
-#EXTINF:-1 tvg-id="TVDiario.br" tvg-logo="http://",TV DIÁRIO 1SEG
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="TVDiario.br" tvg-logo="http://",TV DIÁRIO 1SEG
 http://
-#EXTINF:-1 tvg-id="TVNovoTempo.br" tvg-logo="http://",TV NOVO TEMPO HD
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="TVNovoTempo.br" tvg-logo="http://",TV NOVO TEMPO HD
 http://
-#EXTINF:-1 tvg-id="TVNovoTempo.br" tvg-logo="http://",TV NOVO TEMPO 1Seg
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="TVNovoTempo.br" tvg-logo="http://",TV NOVO TEMPO 1Seg
 http://
-#EXTINF:-1 tvg-id="" tvg-logo="http://",TV DA GENTE HD
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="" tvg-logo="http://",TV DA GENTE HD
 http://
-#EXTINF:-1 tvg-id="" tvg-logo="http://",TV DA GENTE 1Seg
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="" tvg-logo="http://",TV DA GENTE 1Seg
 http://
-#EXTINF:-1 tvg-id="" tvg-logo="http://",Evangelizar HD
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="" tvg-logo="http://",Evangelizar HD
 http://
-#EXTINF:-1 tvg-id="" tvg-logo="http://",Evangelizar 1seg
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="" tvg-logo="http://",Evangelizar 1seg
 http://
-#EXTINF:-1 tvg-id="TVAssembleiadeMinasGerais.br" tvg-logo="http://",TV ASSEMBLEIA
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="TVAssembleiadeMinasGerais.br" tvg-logo="http://",TV ASSEMBLEIA
 http://
-#EXTINF:-1 tvg-id="TVAssembleiadeMinasGerais.br" tvg-logo="http://",TV ASSEMBLEIA 1SEG
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="TVAssembleiadeMinasGerais.br" tvg-logo="http://",TV ASSEMBLEIA 1SEG
 http://
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="http://",TV APARECIDA HD
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="TVAparecida.br" tvg-logo="http://",TV APARECIDA HD
 http://
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="http://",TV APARECIDA 1Seg
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="TVAparecida.br" tvg-logo="http://",TV APARECIDA 1Seg
 http://
-#EXTINF:-1 tvg-logo="http://",TV Pai Eterno HD
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-logo="http://",TV Pai Eterno HD
 http://
-#EXTINF:-1 tvg-logo="http://",TV Pai Eterno Móvel
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-logo="http://",TV Pai Eterno Móvel
 http://
-#EXTINF:-1 tvg-id="RedeGenesis.br" tvg-logo="http://",Genesis HD
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="RedeGenesis.br" tvg-logo="http://",Genesis HD
 http://
-#EXTINF:-1 tvg-id="RedeGenesis.br" tvg-logo="http://",Genesis 1Seg
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="RedeGenesis.br" tvg-logo="http://",Genesis 1Seg
 http://
-#EXTINF:-1 tvg-logo="http://",PREFEITURA HD
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-logo="http://",PREFEITURA HD
 http://
-#EXTINF:-1 tvg-logo="http://",PREFEITURA 1SEG
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-logo="http://",PREFEITURA 1SEG
 http://
-#EXTINF:-1 tvg-logo="http://",REDEVIDA HD
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-logo="http://",REDEVIDA HD
 http://
-#EXTINF:-1 tvg-logo="http://",REDEVIDA EDUCAÇÃO
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-logo="http://",REDEVIDA EDUCAÇÃO
 http://
-#EXTINF:-1 tvg-logo="http://",REDEVIDA EDUCAÇÃO
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-logo="http://",REDEVIDA EDUCAÇÃO
 http://
-#EXTINF:-1 tvg-logo="http://",REDEVIDA 1Seg
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-logo="http://",REDEVIDA 1Seg
 http://
-#EXTINF:-1 tvg-id="CanalFDR.br" tvg-logo="http://",FDR
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="CanalFDR.br" tvg-logo="http://",FDR
 http://
-#EXTINF:-1 tvg-id="CanalFDR.br" tvg-logo="http://",FDR MOBILE
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="CanalFDR.br" tvg-logo="http://",FDR MOBILE
 http://
-#EXTINF:-1 tvg-id="RBI.br" tvg-logo="http://",RBI HD
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="RBI.br" tvg-logo="http://",RBI HD
 http://
-#EXTINF:-1 tvg-id="RBI.br" tvg-logo="http://",RBI 1seg
+#EXTINF:-1 group-title="CANAL ABERTA" tvg-id="RBI.br" tvg-logo="http://",RBI 1seg
 http://
